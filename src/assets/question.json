@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "category": "workandtime",
+      "questionText": "Sample question for work and time category",
+      "options": [
+        {
+          "text": "Option 1",
+          "correct": true
+        },
+        {
+          "text": "Option 2"
+        }
+      ]
+    },
+    {
+      "category": "Bloodrelations",
+      "questionText": "Sample question for blood relations category",
+      "options": [
+        {
+          "text": "Option 1",
+          "correct": true
+        },
+        {
+          "text": "Option 2"
+        }
+      ]
+    },
+    {
+      "category": "MixturesAndAlligations",
+      "questionText": "Sample question for mixtures and alligations category",
+      "options": [
+        {
+          "text": "Option 1",
+          "correct": true
+        },
+        {
+          "text": "Option 2"
+        }
+      ]
+    },
+    {
+      "category": "ProfitandLoss",
+      "questionText": "Sample question for profit and loss category",
+      "options": [
+        {
+          "text": "Option 1",
+          "correct": true
+        },
+        {
+          "text": "Option 2"
+        }
+      ]
+    },
+    {
+      "category": "Average",
+      "questionText": "Sample question for average category",
+      "options": [
+        {
+          "text": "Option 1",
+          "correct": true
+        },
+        {
+          "text": "Option 2"
+        }
+      ]
+    }
+  ]
+}

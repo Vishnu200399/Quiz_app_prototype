@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="card" *ngFor="let question of questions">
+    <div class="card-body">
+      <h5 class="card-title">{{ question.questionText }}</h5>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item" *ngFor="let option of question.options">
+          <input type="radio" [name]="question.id" [value]="option.text">
+          <label>{{ option.text }}</label>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
